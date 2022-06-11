@@ -1,6 +1,6 @@
 # José
 
-## Abou me
+## About me
 * idk
 * Maybe in the future :pig:
 
