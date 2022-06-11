@@ -1,16 +1,16 @@
-### Hi there 👋
+# José
 
-<!--
-**Jose-Hdz/Jose-Hdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![imagen](https://avatars.githubusercontent.com/u/68452134?v=4 "phil foden cat")
 
-Here are some ideas to get you started:
+## Abou me
+* idk
+* Maybe in the future :pig:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+
+* [Python](https://www.python.org "Python")
+* [Markdown](https://www.markdownguide.org "Markdown")
+
+---
+
+Bored
