@@ -1,7 +1,5 @@
 # José
 
-![imagen](https://avatars.githubusercontent.com/u/68452134?v=4 "phil foden cat")
-
 ## Abou me
 * idk
 * Maybe in the future :pig:
