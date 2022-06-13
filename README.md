@@ -1,13 +1,15 @@
 # José
 
 ## About me
-* idk
-* Maybe in the future :pig:
+* idk :pig:
 
 ## Programming Languages
 
 * [Python](https://www.python.org "Python")
 * [Markdown](https://www.markdownguide.org "Markdown")
+
+## Proyects
+* Automatic Keyboard
 
 ---
 
